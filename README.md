@@ -1,4 +1,4 @@
-# git-conflict
+REMOTE
 
 8000 balles la formation 
 
