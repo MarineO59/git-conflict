@@ -1,4 +1,5 @@
-# git-conflict
+
+LOCAL
 
 8000 balles la formation 
 
